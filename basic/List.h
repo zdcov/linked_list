@@ -15,5 +15,5 @@ public://this is where the functions go
 	void AddNode(int addData);
 	void DeleteNode(int delData);
 	void PrintList();
-
+	void List::addNodeinHead(int data);
 };
